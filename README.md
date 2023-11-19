@@ -68,6 +68,3 @@
         alt="docker" width="40" height="40" />
     </a>
 </p>
-
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidanbalap&show_icons=true&theme=dark&locale=en" alt="aidanbalap" /></p>
